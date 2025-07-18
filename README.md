@@ -38,7 +38,9 @@ I’ll include sample screenshots here after running the application:
 
 | Clients Page           | Programs Page           | Enrollments Page           |
 | ---------------------- | ----------------------- | -------------------------- |
-| *\[Client Screenshot]* | *\[Program Screenshot]* | *\[Enrollment Screenshot]* |
+| Clients page
+<img width="572" height="333" alt="image" src="https://github.com/user-attachments/assets/4bea390c-8927-466a-a779-0e3696a4ad63" /> | Enrollment page
+<img width="453" height="334" alt="image" src="https://github.com/user-attachments/assets/a8ddff86-720c-4aa1-bae2-bbcd209380ca" />| *\[Enrollment Screenshot]* |
 
 ---
 
@@ -123,15 +125,6 @@ Postman Screenshot of runnning the API, and get eenrollments data from the mysql
 
 Postman Screenshot of runnning the API, and get program data from the mysql db
 <img width="641" height="375" alt="image" src="https://github.com/user-attachments/assets/afb163bc-d0e2-4b42-9e2c-65ad0341e7a7" />
-
-Screenshots of the various pages from the system
-Clients page
-<img width="572" height="333" alt="image" src="https://github.com/user-attachments/assets/4bea390c-8927-466a-a779-0e3696a4ad63" />
-
-Enrollment page
-<img width="453" height="334" alt="image" src="https://github.com/user-attachments/assets/a8ddff86-720c-4aa1-bae2-bbcd209380ca" />
-
-
 
 Future Plans
 
